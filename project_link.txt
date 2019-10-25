@@ -1,0 +1,246 @@
+-----000webhost.com site---
+ujjalbhuiyan123@gmail.com
+pass-ujj@l!@#$%
+https://www.pickaboo.com
+https://www.bestelectronicsltd.com
+
+https://codecanyon.net/item/myshop-installment-and-due-sell-supported-powerful-shop-management-system/22581463
+
+
+https://www.j2store.org/product/partial-payments.html(installment)
+https://checkout.yandex.com/kredit-zaplatit-po-chastyam-integraciya/
+
+
+https://www.slideshare.net/RajSudhir007/ecommerce-website-proposal(functionality)
+https://www.slideshare.net/tanveerrudro/web-site-proposal-sample-for-e-commerce-site
+
+
+
+https://www.youtube.com/watch?v=vBzg0Us5MDk(tinymc)
+
+
+https://boagworld.com/digital-strategy/swot-analysis/(nice video, audio,text ption))
+
+
+https://www.youtube.com/watch?v=xQ45fdu0CXo(realtime chat)
+
+https://www.youtube.com/watch?v=u4WGdvGZl94&list=PL9JjWRe0SBVyKiKxt157BMbyj0ijsTF8P(delete multiple with jquety)
+
+
+https://themeforest.net/category/site-templates/technology/electronics?tags=bootstrap(template link)
+
+http://www.templatemonsterpreview.com/80518.html(product details page)
+
+
+https://www.templates.com/pages/info/demo.html?template_id=52995(sitemap)
+https://www.templates.com/pages/info/demo.html?template_id=52995
+bootstrap electronics template
+
+https://themeforest.net/item/gleek-bootstrap-4-admin-dashboard-template/22871009
+
+
+----fronEnd tamplate------
+http://preview.freethemescloud.com/subas-preview/subas/shop-left-sidebar.html
+http://themehunt.com/item/1526237-subas-free-electronics-ecommerce-bootstrap-template/preview
+http://themehunt.com/item/1524993-eshopper-free-ecommerce-html-template/preview
+https://www.templatespoint.net/template/Electro-Electronics-Store-WooCommerce-Theme
+
+----------admin panel-------------
+https://www.templatespoint.net/demo/?theme=Aero-Bootstrap-4x-Admin-Template
+https://www.templatespoint.net/demo/Mentor-Bootstrap4-Admin-Dashboard-Template/
+https://www.templatespoint.net/demo/?theme=Preclinic-Hospital-Bootstrap4-Admin
+http://preview.themeforest.net/item/fily-responsive-bootstrap-admin-template/full_screen_preview/23067271
+http://www.wrraptheme.com/templates/alpino/small-menu-right/index.html
+http://themifycloud.com/demos/templates/KAdmin/KAdmin-Light/dashboard.html
+http://pages.revox.io/dashboard/4.1.0/html/condensed/index.html?location=usa#usa
+http://www.urbanui.com/majestic-admin-pro/template/demo/vertical-default-light/index.html
+https://pixinvent.com/materialize-material-design-admin-template/html/ltr/vertical-modern-menu-template/#(beauty admin html)
+https://colorlib.com//polygon/admindek/default/index.html (video chat option)
+https://demos.creative-tim.com/material-dashboard-pro/examples/dashboard.html
+https://colorlib.com/polygon/elaadmin/charts-chartjs.html#
+https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/(all admin)
+bootstrap electronics template admin dashboard
+https://www.bootstrapdash.com/ecommerce-website-admin-template/ (all admin)
+
+http://dreamguys.co.in/preclinic/template/index.html(doctor admin)
+http://default.vuejs-laravel.co/#/(vuejs admin)
+
+http://laravel.pixelstrap.com/endless/#
+http://preview.themeforest.net/item/pages-admin-dashboard-template-web-app/full_screen_preview/9694847?_ga=2.186057769.102001415.1507288846-1761458466.1507119387&ref=themefisher1
+----------chatbox------
+https://wpkixx.com/html/winku/index2.html
+https://bootsnipp.com/snippets/eomDM
+https://bootsnipp.com/snippets/peXog
+-----------logout screen----
+https://stackoverflow.com/questions/41010739/laravel-how-to-achieve-after-the-session-timeout-lock-screen
+
+------payment getway------------------
+https://itsolutionstuff.com/post/laravel-57-stripe-payment-gateway-integration-exampleexample.html
+
+-----laravel autoload product-----------
+http://www.expertphp.in/article/auto-load-more-data-on-page-scroll-with-jquery-and-php-laravel
+
+
+____------dummy data collection link-----_______
+https://www.bdshop.com/
+
+------------------multilanguage-----------------
+https://appdividend.com/2019/04/01/how-to-create-multilingual-website-using-laravel-localization/
+
+-----------ajax link-----------
+https://laracasts.com/discuss/channels/general-discussion/showing-request-validation-errors-when-submitting-form-by-ajax(redirect)
+https://hdtuto.com/article/ajax-validation-in-laravel-57-example
+https://www.webslesson.info/2019/04/dynamically-add-remove-input-fields-in-laravel-58-using-jquery-ajax.html(add button)
+https://laracasts.com/discuss/channels/laravel/after-two-second-the-page-reload-through-the-ajax-from-the-controller-in-laravel
+http://michaelsoriano.com/how-to-ajax-validate-forms/
+https://stackoverflow.com/questions/49945314/if-there-are-validation-errors-show-the-errors-in-the-view-using-ajax-post-requ(set time)
+https://www.youtube.com/watch?v=c7-HkztGahM (dynamic depending dropdown)
+https://www.youtube.com/watch?v=un24PeEADNI(load more data)
+https://www.youtube.com/watch?v=6i1H3MxM8SU(add multi textfiled)
+https://hdtuto.com/article/laravel-return-view-ajax-request-example()
+
+https://www.youtube.com/watch?v=m4Fru330HqQ (real time validation)
+
+https://code.tutsplus.com/tutorials/submit-a-form-without-page-refresh-using-jquery--net-59
+
+https://www.oipapio.com/question-4098302(render page section with ajax call)
+https://laracasts.com/discuss/channels/laravel/how-to-display-values-in-returned-from-ajax-call-in-tabular-format-laravel?page=1(display data in table)
+https://www.youtube.com/watch?v=8i7v05ibBtA(render and ritrive data)
+
+https://pineco.de/simple-pdf-rendering-laravel/ {create pdf}
+https://stackoverflow.com/questions/15096241/laravel-how-to-render-only-one-section-of-a-template/56926502#56926502
+
+------try later for lendrer----------
+https://laravel.io/forum/11-25-2014-jquery-ajax-and-rendering-sections-javascript-sections-in-blade
+https://laracasts.com/discuss/channels/laravel/laravel-jquery-ajax-how-to-return-view-on-a-get-request?page=0
+https://stackoverflow.com/questions/37508684/how-to-display-data-returned-from-ajax-response-as-a-view-in-laravel
+https://laravel.io/forum/07-20-2015-getting-content-of-a-view-file-and-display-it-using-ajax-request
+https://stackoverflow.com/questions/15096241/laravel-how-to-render-only-one-section-of-a-template/56926502#56926502
+https://laracasts.com/discuss/channels/laravel/how-to-display-values-in-returned-from-ajax-call-in-tabular-format-laravel?page=1
+
+-----------------------database creation----------------------
+https://anthonysterling.com/posts/using-an-artisan-command-to-create-a-database-in-laravel-or-lumen.html
+https://stackoverflow.com/questions/38832166/how-to-create-a-mysql-db-with-laravel
+
+--------------load more jquery-------------
+http://jsfiddle.net/brynner/QDttv/
+https://www.sitepoint.com/jquery-infinite-scrolling-demos/
+https://stackoverflow.com/questions/48240011/show-loading-using-jquery-in-bootstrap-4-with-data-loading-text
+
+
+--- assign or disable middleware in resource controller------------
+https://laracasts.com/discuss/channels/general-discussion/assign-separate-middleware-to-each-method-of-a-resource-in-laravel
+https://laracasts.com/discuss/channels/laravel/disable-middleware-on-a-resource-controllers-specific-action
+
+https://east3rdcreative.com/blog/dynamic-sidebars-in-laravel-5
+https://stackoverflow.com/questions/28385467/laravel-dynamic-sidebar
+
+
+-------lock screen----------
+https://medium.com/@dennissmink/laravel-create-auth-lock-screen-11d6014fb8a1
+
+-------dynamic breadcrunb-------
+https://medium.com/@jordanIrabor/building-dynamic-breadcrumbs-in-laravel-f6bf1eb23a7d
+https://medium.com/hackernoon/create-web-notifications-using-laravel-and-pusher-channels-a9516427d842
+
+---file generate---
+https://gilacoding.com/read/export-3-file-dan-print-langsung-menggunakan-datatables-php-laravel
+https://www.youtube.com/watch?v=_-RPjzOstXs
+https://www.youtube.com/watch?v=GXEH660Bxko
+--- graphical view-----------
+https://www.youtube.com/watch?v=yAGVB4ZIQ4o
+https://www.youtube.com/watch?v=KrAvrU2XYuY
+https://www.youtube.com/watch?v=IEhZTcpbknA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

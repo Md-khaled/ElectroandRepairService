@@ -1,0 +1,23 @@
+/*
+.breadcrumbs {
+  background: #DAEE3B url('../../../storage/app/public/users_img/author/1.jpg') no-repeat scroll center center; 
+ background-size: 200px;
+  height: 600px;
+}
+
+*/
+#lock {
+  background: #DAEE3B url('../../../storage/app/public/users_img/auth_img/lock.jpg'); 
+ background-size: cover; 
+ background-position: top center;
+}
+#reg {
+  background: #DAEE3B url('../../../storage/app/public/users_img/auth_img/register.jpg'); 
+ background-size: cover; 
+ background-position: top center;
+}
+#emailbyreset {
+  background: #DAEE3B url('../../../storage/app/public/users_img/auth_img/reset.jpg'); 
+ background-size: cover; 
+ background-position: top center;
+}
